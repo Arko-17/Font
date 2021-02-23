@@ -1,0 +1,27 @@
+.fyi{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px grey;
+    color: lawngreen;
+}
+.NOTE{
+    font-size: 15px;
+    color: indigo;
+}
+.copy-right-footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(indigo, hotpink);
+    line-height: 3;
+    font-family: cursive;
+    font-size: 23px;
+    color: cyan;
+}
+canvas{
+    border: 5px solid purple;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
