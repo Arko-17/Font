@@ -18,7 +18,7 @@ function setup() {
 function draw() {
     background("#d0ff00");
     fill("#e3fb24");
-    text("Arkoneil", 30, 20);
+    text("Arkoneil", noseX, noseY);
     textSize(32);
     document.getElementById("difference").innerHTML="The size of the text will be" + difference + "px";
 }
